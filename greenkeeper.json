@@ -1,0 +1,20 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "native-module/package.json",
+        "package.json",
+        "spec/fixtures/package-with-native-deps/package.json",
+        "spec/fixtures/test-module-three/package.json",
+        "spec/fixtures/test-module-two/package.json",
+        "spec/fixtures/test-module-with-dependencies/package.json",
+        "spec/fixtures/test-module/package.json",
+        "templates/bundle/package.json",
+        "templates/language/package.json",
+        "templates/package-coffeescript/package.json",
+        "templates/package-javascript/package.json",
+        "templates/theme/package.json"
+      ]
+    }
+  }
+}
